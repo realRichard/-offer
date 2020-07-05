@@ -7,3 +7,4 @@
 
 ### [data structure](./chapterTwo/dataStructure)
 > ####  interview question 3 [duplicate_data](./chapterTwo/dataStructure/duplicateData)
+> ####  interview question 4 [find_matrix](./chapterTwo/dataStructure/findMatrix)
