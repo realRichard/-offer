@@ -11,3 +11,4 @@
 > ####  interview question 5 [replace_blank](./chapterTwo/dataStructure/replaceBlank)
 > ####  interview question 6 [print_linkedList_reversingly](./chapterTwo/dataStructure/printLinkList)
 > ####  interview question 7 [rebiuld_binary_tree](./chapterTwo/dataStructure/rebiuldBinaryTree)
+> ####  interview question 8 [next_node](./chapterTwo/dataStructure/nextNode)
