@@ -19,3 +19,5 @@
 >> ####  interview question 11 [rotate_array](./chapterTwo/algorithmsAndDataManipulation/minNumner)
 >> ####  interview question 12 [path_in_matrix](./chapterTwo/algorithmsAndDataManipulation/pathInMatrix)
 >> ####  interview question 13 [move_count](./chapterTwo/algorithmsAndDataManipulation/moveCount)
+>> ####  interview question 14 [max_product_after_cutting](./chapterTwo/algorithmsAndDataManipulation/cutRope)
+>> ####  interview question 15 [number_of_one](./chapterTwo/algorithmsAndDataManipulation/bitOperation)
