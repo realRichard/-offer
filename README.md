@@ -28,3 +28,5 @@
 
 >### [code integrity](./chapterThree/completeness)
 >> ####  interview question 16 [power](./chapterThree/completeness/power)
+>> ####  interview question 17 [print_one_to_max_n_digit](./chapterThree/completeness/print_one_to_max_n_digit)
+>> ####  interview question 18 [delete_node](./chapterThree/completeness/deleteLinkListNode)
