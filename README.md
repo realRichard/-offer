@@ -30,3 +30,8 @@
 >> ####  interview question 16 [power](./chapterThree/completeness/power)
 >> ####  interview question 17 [print_one_to_max_n_digit](./chapterThree/completeness/print_one_to_max_n_digit)
 >> ####  interview question 18 [delete_node](./chapterThree/completeness/deleteLinkListNode)
+>> ####  interview question 21 [reorder_odd_even](./chapterThree/completeness/reorderOddEven)
+>
+>### [code robust](./chapterThree/robust)
+>> ####  interview question 22 [find_Kth_to_tail](./chapterThree/robust/findKthToTail)
+>> ####  interview question 23 [entry_node_of_loop](./chapterThree/robust/entryNodeOfLoop)
