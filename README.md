@@ -38,3 +38,10 @@
 >> ####  interview question 24 [reverse_linkList](./chapterThree/robust/reverseLinkList)
 >> ####  interview question 25 [merge](./chapterThree/robust/mergeOrderLinkList)
 >> ####  interview question 26 [has_subtree](./chapterThree/robust/hasSubTree)
+
+
+##  chapter 4 [ideas](./chapterFour)
+
+>### [drawing](./chapterFour/drawing)
+>> ####  interview question 27 [binary_tree_mirror](./chapterFour/drawing/binaryTreeMirror)
+>> ####  interview question 28 [is_symmetry](./chapterFour/drawing/symmetry)
