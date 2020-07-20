@@ -44,4 +44,5 @@
 
 >### [drawing](./chapterFour/drawing)
 >> ####  interview question 27 [binary_tree_mirror](./chapterFour/drawing/binaryTreeMirror)
->> ####  interview question 28 [is_symmetry](./chapterFour/drawing/symmetry)
+>> ####  interview question 28 [is_symmetrical](./chapterFour/drawing/symmetry)
+>> ####  interview question 29 [print_matrix_clock_wisely](./chapterFour/drawing/printMatrixClockWisely)
