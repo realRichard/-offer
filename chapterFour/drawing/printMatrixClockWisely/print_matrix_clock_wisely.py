@@ -16,27 +16,32 @@ def print_matrix_clock_wisely(matrix, rows, cols):
     up = 0
     down = rows - 1
     left = 0
-    right = cols -1
-    while up < down and left < right:
+    right = cols - 1
+    # down + 1, right + 1, 不然无法处理一行或者一列的情况
+    while up < down + 1 and left < right + 1:
         for u in range(left, right + 1):
             print(matrix[cols * up + u], end=', ')
         up += 1
         for r in range(up, down + 1):
             print(matrix[r * cols + right], end=', ')
         right -= 1
-        for d in range(right,  left -1, -1):
-            print(matrix[cols * down + d], end=', ')
-        down -= 1
-        for l in range(down, up - 1, -1):
-            print(matrix[l * cols + left], end=', ')
-        left += 1
+        # 处理一行的情况
+        if rows != 1:
+            for d in range(right,  left - 1, -1):
+                print(matrix[cols * down + d], end=', ')
+            down -= 1
+        # 处理一列的情况
+        if cols != 1:
+            for l in range(down, up - 1, -1):
+                print(matrix[l * cols + left], end=', ')
+            left += 1
     print()
 
 
 def test():
-    matrix = [i for i in range(1, 21)]
-    # print(matrix)
-    print_matrix_clock_wisely(matrix, 5, 4)
+    matrix = [i for i in range(1, 17)]
+    print(matrix)
+    print_matrix_clock_wisely(matrix, 4, 4)
 
 
 if __name__ == '__main__':

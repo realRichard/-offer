@@ -46,3 +46,4 @@
 >> ####  interview question 27 [binary_tree_mirror](./chapterFour/drawing/binaryTreeMirror)
 >> ####  interview question 28 [is_symmetrical](./chapterFour/drawing/symmetry)
 >> ####  interview question 29 [print_matrix_clock_wisely](./chapterFour/drawing/printMatrixClockWisely)
+>> ####  interview question 30 [stack_with_min](./chapterFour/example/stackWithMin)
