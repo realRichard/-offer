@@ -51,3 +51,5 @@
 >> ####  interview question 30 [stack_with_min](./chapterFour/example/stackWithMin)
 >> ####  interview question 31 [is_pop_order](./chapterFour/example/isPopOrder)
 >> ####  interview question 32 [print_from_top_to_bottom](./chapterFour/example/printFromTopToBottom)
+>> ####  interview question 33 [verify_sequence_of_BST](./chapterFour/example/verifySequenceOfBST)
+>> ####  interview question 34 [find_path](./chapterFour/example/findPath)
