@@ -57,4 +57,6 @@
 >### [break down](./chapterFour/breakDown)
 >> ####  interview question 35 [complex_linkedList_Clone](./chapterFour/breakDown/complexLinkedListClone)
 >> ####  interview question 36 [convert](./chapterFour/breakDown/convert)
+>> ####  interview question 37 [serialization](./chapterFour/breakDown/serialization)
+>> ####  interview question 38 [permutation](./chapterFour/breakDown/permutation)
 
