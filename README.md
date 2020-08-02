@@ -60,3 +60,10 @@
 >> ####  interview question 37 [serialization](./chapterFour/breakDown/serialization)
 >> ####  interview question 38 [permutation](./chapterFour/breakDown/permutation)
 
+
+##  chapter 5 [optimize efficiency](./chapterFive)
+
+>### [time efficiency](./chapterFive/timeEfficiency)
+>> ####  interview question 39 [more_than_half_num](./chapterFive/timeEfficiency/moreThanHalfNum)
+>> ####  interview question 40 [least_numbers](./chapterFive/timeEfficiency/leastNumbers)
+>> ####  interview question 41 [median](./chapterFive/timeEfficiency/median)
