@@ -67,3 +67,6 @@
 >> ####  interview question 39 [more_than_half_num](./chapterFive/timeEfficiency/moreThanHalfNum)
 >> ####  interview question 40 [least_numbers](./chapterFive/timeEfficiency/leastNumbers)
 >> ####  interview question 41 [median](./chapterFive/timeEfficiency/median)
+>> ####  interview question 42 [greatest_sum_of_subArray](./chapterFive/timeEfficiency/greatestSumOfSubArray)
+>> ####  interview question 43 [number_of_one_between_one_and_n](./chapterFive/timeEfficiency/numberOfOne)
+>> ####  interview question 44 [digit_at_index](./chapterFive/timeEfficiency/digitAtIndex)
