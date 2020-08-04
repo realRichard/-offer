@@ -70,3 +70,6 @@
 >> ####  interview question 42 [greatest_sum_of_subArray](./chapterFive/timeEfficiency/greatestSumOfSubArray)
 >> ####  interview question 43 [number_of_one_between_one_and_n](./chapterFive/timeEfficiency/numberOfOne)
 >> ####  interview question 44 [digit_at_index](./chapterFive/timeEfficiency/digitAtIndex)
+>> ####  interview question 45 [min_number](./chapterFive/timeEfficiency/minNumber)
+>> ####  interview question 46 [translation_count](./chapterFive/timeEfficiency/translationCount)
+>> ####  interview question 47 [max_value](./chapterFive/timeEfficiency/maxValue)
