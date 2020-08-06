@@ -74,5 +74,9 @@
 >> ####  interview question 46 [translation_count](./chapterFive/timeEfficiency/translationCount)
 >> ####  interview question 47 [max_value](./chapterFive/timeEfficiency/maxValue)
 >> ####  interview question 48 [longest_subString_without_duplication](./chapterFive/timeEfficiency/longestSubStringWithoutDuplication)
+>
+>### [balance](./chapterFive/balance)
 >> ####  interview question 49 [ugly_number](./chapterFive/balance/uglyNumber)
 >> ####  interview question 50 [first_not_repeating_char](./chapterFive/balance/firstNotRepeatingChar)
+>> ####  interview question 51 [inverse_pairs](./chapterFive/balance/inversePairs)
+>> ####  interview question 52 [first_common_node](./chapterFive/balance/firstCommonNode)
