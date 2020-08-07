@@ -80,3 +80,9 @@
 >> ####  interview question 50 [first_not_repeating_char](./chapterFive/balance/firstNotRepeatingChar)
 >> ####  interview question 51 [inverse_pairs](./chapterFive/balance/inversePairs)
 >> ####  interview question 52 [first_common_node](./chapterFive/balance/firstCommonNode)
+
+
+##  chapter 6 [ability](./chapterSix)
+
+>### [knowledge migrate](./chapterSix/knowledgeMigrate)
+>> ####  interview question 53 [find_in_sorted_array](./chapterSix/knowledgeMigrate/findInSortedArray)
