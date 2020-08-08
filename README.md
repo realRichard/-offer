@@ -86,3 +86,5 @@
 
 >### [knowledge migrate](./chapterSix/knowledgeMigrate)
 >> ####  interview question 53 [find_in_sorted_array](./chapterSix/knowledgeMigrate/findInSortedArray)
+>> ####  interview question 54 [kth_node](./chapterSix/knowledgeMigrate/kthNode)
+>> ####  interview question 55 [tree_depth](./chapterSix/knowledgeMigrate/treeDepth)
