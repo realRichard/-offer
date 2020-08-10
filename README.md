@@ -88,3 +88,5 @@
 >> ####  interview question 53 [find_in_sorted_array](./chapterSix/knowledgeMigrate/findInSortedArray)
 >> ####  interview question 54 [kth_node](./chapterSix/knowledgeMigrate/kthNode)
 >> ####  interview question 55 [tree_depth](./chapterSix/knowledgeMigrate/treeDepth)
+>> ####  interview question 56 [number_of_occurrences](./chapterSix/knowledgeMigrate/numberOfOccurrences)
+>> ####  interview question 57 [numbers_with_sum](./chapterSix/knowledgeMigrate/numbersWithSum)
