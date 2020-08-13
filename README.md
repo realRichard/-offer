@@ -90,3 +90,5 @@
 >> ####  interview question 55 [tree_depth](./chapterSix/knowledgeMigrate/treeDepth)
 >> ####  interview question 56 [number_of_occurrences](./chapterSix/knowledgeMigrate/numberOfOccurrences)
 >> ####  interview question 57 [numbers_with_sum](./chapterSix/knowledgeMigrate/numbersWithSum)
+>> ####  interview question 58 [reverse_string](./chapterSix/knowledgeMigrate/reverseString)
+>> ####  interview question 59 [max_in_queue](./chapterSix/knowledgeMigrate/maxInQueue)
