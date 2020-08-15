@@ -92,3 +92,7 @@
 >> ####  interview question 57 [numbers_with_sum](./chapterSix/knowledgeMigrate/numbersWithSum)
 >> ####  interview question 58 [reverse_string](./chapterSix/knowledgeMigrate/reverseString)
 >> ####  interview question 59 [max_in_queue](./chapterSix/knowledgeMigrate/maxInQueue)
+>
+>### [abstract modeling](./chapterSix/abstractModeling)
+>> ####  interview question 61 [is_continuous](./chapterSix/abstractModeling/isContinuous)
+>> ####  interview question 62 [last_remaining](./chapterSix/abstractModeling/lastRemaining)
