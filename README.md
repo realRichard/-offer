@@ -96,3 +96,7 @@
 >### [abstract modeling](./chapterSix/abstractModeling)
 >> ####  interview question 61 [is_continuous](./chapterSix/abstractModeling/isContinuous)
 >> ####  interview question 62 [last_remaining](./chapterSix/abstractModeling/lastRemaining)
+>> ####  interview question 63 [max_diff](./chapterSix/abstractModeling/maxDiff)
+>
+>### [divergent thinking](./chapterSix/divergentThinking)
+>> ####  interview question 64 [sum_solution](./chapterSix/divergentThinking/sumSolution)
