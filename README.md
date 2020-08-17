@@ -100,3 +100,5 @@
 >
 >### [divergent thinking](./chapterSix/divergentThinking)
 >> ####  interview question 64 [sum_solution](./chapterSix/divergentThinking/sumSolution)
+>> ####  interview question 65 [add](./chapterSix/divergentThinking/add)
+>> ####  interview question 66 [multiply](./chapterSix/divergentThinking/multiply)
