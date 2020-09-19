@@ -12,17 +12,22 @@ def is_continuous(arr):
         raise ValueError
 
     arr.sort()
+    # 0 代表大小王
     number_of_zero = 0
     for i in arr:
         if i == 0:
             number_of_zero += 1
     number_of_gap = 0
+    # 已排序, 而且 number_of_zero 是大小王的数量, 所以可以这样写, 从 number_of_zero 索引位置开始就是要检查的牌
     small = number_of_zero
     big = small + 1
     while big < len(arr):
+        # 如果有两个牌相同, 则就不可能是顺子了
         if arr[small] == arr[big]:
             return False
+        # 计算排序之后, 相邻数字的间隔
         number_of_gap += arr[big] - arr[small] - 1
+        # 往后移
         small = big
         big += 1
     return False if number_of_gap > number_of_zero else True

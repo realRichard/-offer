@@ -23,8 +23,9 @@ def print_path(stack):
 
 def find_path_core(root, n, path, my_sum):
     path.append(root)
-    if len(path) == 0:
-        return 
+    # 这两句好像是多余的
+    # if len(path) == 0:
+    #     return 
     my_sum += root.value
     if my_sum == n:
         print_path(path)

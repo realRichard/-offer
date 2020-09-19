@@ -17,7 +17,7 @@
 >
 >### [algorithms and data manipulation](./chapterTwo/algorithmsAndDataManipulation)
 >> ####  interview question 10 [Fibonacci](./chapterTwo/algorithmsAndDataManipulation/recursiveAndIterative)
->> ####  interview question 11 [rotate_array](./chapterTwo/algorithmsAndDataManipulation/minNumner)
+>> ####  interview question 11 [rotate_array](./chapterTwo/algorithmsAndDataManipulation/minNumber)
 >> ####  interview question 12 [path_in_matrix](./chapterTwo/algorithmsAndDataManipulation/pathInMatrix)
 >> ####  interview question 13 [move_count](./chapterTwo/algorithmsAndDataManipulation/moveCount)
 >> ####  interview question 14 [max_product_after_cutting](./chapterTwo/algorithmsAndDataManipulation/cutRope)

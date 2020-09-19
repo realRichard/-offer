@@ -17,8 +17,9 @@ def max_in_windows(arr, size):
                 index.popleft()
             index.append(i)
         max_in_windows.append(arr[index.popleft()])
-    else:
-        return []
+    # 多余
+    # else:
+    #     return []
     return max_in_windows
 
 

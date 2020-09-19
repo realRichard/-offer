@@ -86,14 +86,19 @@ def convert_core(root, last):
     if root is None:
         return 
     node = root
+    # 递归的转换左子树
     if node.left is not None:
         last = convert_core(node.left, last)
+    # 将根节点和左子树连接
     node.left = last
     if last is not None:
         last.right = node
+    # 现在左子树和根节点已经是转换好了的
     last = node
+    # 递归的转换右子树
     if node.right is not None:
         last = convert_core(node.right, last)
+    # 最后返回的是双向链表的最后一个节点
     return last
 
 

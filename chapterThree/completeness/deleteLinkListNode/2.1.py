@@ -42,10 +42,11 @@ def delete_duplicate(link):
             n_node = next_node.next
             while n_node is not None and n_node.value == temp.value:
                 n_node = n_node.next
+            # 此时 n_node 已经是下一个不重复的节点了
             # 头结点重复, 设置头结点,
             if pre_node is None:
                 link.header = n_node
-                # 但不能保证原来的第二个节点是否也重复， 所以再加一个 if
+                # 但不能保证原来的第二个值的节点是否也重复， 所以再加一个 if
                 if not is_header_and_duplicate:
                     pre_node = link.header 
             else:

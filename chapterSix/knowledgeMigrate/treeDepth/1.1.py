@@ -76,12 +76,17 @@ def pre_travesal(root):
 def tree_depth(root):
     if root is None:
         return 0
-    # if root.right is None:
-    #     return 1 + tree_depth(root.left)
-    # if root.left is None:
-    #     return 1 + tree_depth(root.right)
+
+    left = 0
+    right = 0
+    if root.right is not None:
+        right = tree_depth(root.right)
+    if root.left is not None:
+        left = tree_depth(root.left)
+    return 1 + max(left, right)
+
     # return 1 + max(tree_depth(root.left), tree_depth(root.right))
-    return 1 + max(map(tree_depth, (root.left, root.right)))
+    # return 1 + max(map(tree_depth, (root.left, root.right)))
 
 
 def test():

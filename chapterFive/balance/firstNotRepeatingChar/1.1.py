@@ -9,6 +9,7 @@ def first_not_repeating_char(string):
     if not isinstance(string, str):
         raise TypeError
 
+    # 用 8 位可表示 256 个字符
     hash_table = [0] * 256
     for i in string:
         hash_table[ord(i)] += 1
